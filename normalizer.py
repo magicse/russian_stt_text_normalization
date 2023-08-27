@@ -8,7 +8,8 @@ import warnings
 class Normalizer:
     def __init__(self,
                  device='cpu',
-                 jit_model='jit_s2s.pt'):
+                 #jit_model='jit_s2s.pt'):
+                 jit_model='updated_jit_s2s.pt'):
         super(Normalizer, self).__init__()
 
         self.device = torch.device(device)
