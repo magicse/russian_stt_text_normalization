@@ -1,4 +1,4 @@
-# Russian STT Text Normalization
+# STT Normalization
 
 Russian text normalization pipeline for speech-to-text and other applications based on tagging s2s networks.
 
